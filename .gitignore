@@ -1,0 +1,30 @@
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Large files & datasets
+*.pt
+*.pth
+*.bin
+*.onnx
+/data/
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
