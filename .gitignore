@@ -28,3 +28,6 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+
+TP3/gpt2_weights/
+TP3/sms_spam_collection.zip
