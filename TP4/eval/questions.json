@@ -1,0 +1,77 @@
+[
+  {
+    "id": "q1",
+    "question": "Quel est le sujet de PFE que nous avons envoyé à Mr Julien Romero et qui sont les membres du groupe ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Quels étudiants composent le groupe pour le PFE sur l’outil de recrutement avec IA ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q3",
+    "question": "À quel enseignant a été envoyé le sujet de PFE proposé par Riadh Khalfallah ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q4",
+    "question": "Que faut-il faire si on reçoit un email de phishing d’après le message de la DISI ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q5",
+    "question": "Quels sont les bons réflexes à avoir face aux emails frauduleux signalés par l’école ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q6",
+    "question": "Pourquoi le restaurant du bâtiment U7 n’a pas pu assurer le service et quelle alternative était proposée ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q7",
+    "question": "À partir de quelle heure des repas gratuits étaient-ils proposés lors du problème de restauration ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q8",
+    "question": "Quel type d’offres d’emploi sont envoyées dans les emails de Bouygues Construction ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q9",
+    "question": "Quels nouveaux équipements peut-on emprunter à la médiathèque début 2026 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q10",
+    "question": "Quel est le message général de la newsletter de la médiathèque pour janvier 2026 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q11",
+    "question": "Quelles sont les règles générales pour valider une UE d’après le règlement des études ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q12",
+    "question": "Combien de crédits ECTS faut-il pour valider une année universitaire ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q13",
+    "question": "Comment fonctionne la compensation entre les différentes UE ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q14",
+    "question": "Comment se déroule la soutenance de PFE selon les documents officiels ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q15",
+    "question": "Quelle est la météo prévue à Paris demain ?",
+    "expected_doc_type": "admin_pdf"
+  }
+]

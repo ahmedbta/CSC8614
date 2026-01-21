@@ -1,0 +1,16 @@
+# Nouvelles offres d'emploi publiées par careers.bouygues-construction.com
+
+**From:** bouyguescop-jobnotification@noreply12.jobs2web.com
+
+**Date:** Wed, 07 Jan 2026 11:44:32 +0000
+
+**Message-ID:** <756912407.332566711767786272835.JavaMail.tomee@pc33j2wmail02>
+
+---
+
+Vous recevez cet e-mail parce que vous avez rejoint la communauté de talents bouyguescoP le 30/04/2025. Vous recevrez ces messages tous les Alternance Data Scientist H/F Guyancourt, 78, FRA, 78000 jour(s). Votre alerte d'offres d'emploi correspond aux offres d'emploi suivantes sur <a class="agentsitelink" href="http://careers.bouygues-construction.com/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">careers.bouygues-construction.com</a>. <br/><br/><b> Offres d'emploi </b><br/><span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://careers.bouygues-construction.com/job/Apprenti-BTS-fluide-%C3%A9nergie-domotique-option-GCF-ou-FCA/55-fr_FR/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Apprenti BTS fluide &eacute;nergie domotique option GCF ou FCA</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://careers.bouygues-construction.com/job/Apprenti%28e%29-BTS-Maintenance-des-syst%C3%A8mes-%C3%A9nerg%C3%A9tiques/2603-fr_FR/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Apprenti(e) BTS Maintenance des syst&egrave;mes &eacute;nerg&eacute;tiques</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://careers.bouygues-construction.com/job/Apprenti%28e%29-BTS-Maintenance-des-syst%C3%A8mes-%C3%A9nerg%C3%A9tiques/64-fr_FR/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Apprenti(e) BTS Maintenance des syst&egrave;mes &eacute;nerg&eacute;tiques</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://careers.bouygues-construction.com/job/Apprenti%28e%29-BTS-Electrotechnique/66-fr_FR/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Apprenti(e) BTS Electrotechnique</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://careers.bouygues-construction.com/job/Stage-fin-d&apos;%C3%A9tudes-Assistant-Manager-de-projets-HF/1749-fr_FR/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Stage fin d'&eacute;tudes - Assistant Manager de projets H/F</a><br/>
+<br/><br/><br/><a class="agentmodifylink" href="https://career5.successfactors.eu/careers?site=&company=bouyguescoP&clientId=jobs2web&lang=fr_FR&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_ALERTS">Gérer vos alertes d'offres d'emploi</a><br/><br/><br/><hr align="left" ><p align="right"><a class="agentmodifylink" href="https://career5.successfactors.eu/careers?site=&company=bouyguescoP&clientId=jobs2web&lang=fr_FR&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_ALERTS">Paramètres d'e-mails</a> | <a class="agentunsubscribelink" href="https://careers.bouygues-construction.com/unsubscribe/?from=email&refid=28853042101&utm_source=J2WEmail&source=2&eid=227501-202644071144-32828847301&locale=fr_FR">Se désabonner </a></p>
